@@ -1,0 +1,26 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "PSD to HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Heraldo E Roque Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heraldo78/themodernist-Psd-To-HTML/issues"
+  },
+  "homepage": "https://github.com/heraldo78/themodernist-Psd-To-HTML#readme",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-sass": "~3.0.0",
+    "gulp-jshint": "~2.0.4"
+
+
+  }
+}
